@@ -1,0 +1,10 @@
+gradio
+numpy
+torch
+torchaudio
+scipy
+matplotlib
+scikit-image
+soundfile
+psutil
+seaborn
